@@ -4,7 +4,7 @@ My Text editor is a generic text editor which is written in Java.
 Java Swing Library has been used to design the GUI.
 
 It has the regular operations of -
-* New File 
+            * New File 
 * Open File 
 * Save File  
 * Close File
